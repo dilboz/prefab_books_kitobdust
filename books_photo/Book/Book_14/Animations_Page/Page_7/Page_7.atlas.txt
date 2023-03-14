@@ -1,0 +1,125 @@
+
+Page_7.png
+size: 1113,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Bee
+  rotate: false
+  xy: 1034, 504
+  size: 46, 78
+  orig: 46, 78
+  offset: 0, 0
+  index: -1
+Bee_wing_1
+  rotate: false
+  xy: 1034, 422
+  size: 36, 78
+  orig: 36, 78
+  offset: 0, 0
+  index: -1
+Bee_wing_2
+  rotate: false
+  xy: 1034, 95
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: true
+  xy: 1034, 179
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: true
+  xy: 1034, 362
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 1084, 548
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 1034, 138
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 1034, 58
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: true
+  xy: 1074, 425
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 1071, 238
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 1034, 224
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 1034, 312
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 1075, 377
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 1034, 271
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 1082, 270
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 1074, 459
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1

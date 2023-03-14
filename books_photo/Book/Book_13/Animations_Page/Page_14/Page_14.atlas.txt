@@ -1,0 +1,76 @@
+
+Page_14.png
+size: 1434,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Bird
+  rotate: false
+  xy: 1246, 149
+  size: 144, 128
+  orig: 144, 128
+  offset: 0, 0
+  index: -1
+Bird_Foot_1
+  rotate: true
+  xy: 1394, 231
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+Bird_Foot_2
+  rotate: false
+  xy: 1394, 199
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+Duck
+  rotate: true
+  xy: 1034, 67
+  size: 210, 208
+  orig: 210, 208
+  offset: 0, 0
+  index: -1
+Duck_Foot_1
+  rotate: false
+  xy: 1165, 24
+  size: 97, 39
+  orig: 97, 39
+  offset: 0, 0
+  index: -1
+Duck_Foot_2
+  rotate: true
+  xy: 1266, 18
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+Goose
+  rotate: true
+  xy: 1034, 281
+  size: 301, 382
+  orig: 301, 382
+  offset: 0, 0
+  index: -1
+Goose_Foot_1
+  rotate: false
+  xy: 1034, 19
+  size: 127, 44
+  orig: 127, 44
+  offset: 0, 0
+  index: -1
+Goose_Foot_2
+  rotate: true
+  xy: 1246, 80
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1

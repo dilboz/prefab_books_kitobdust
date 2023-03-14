@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Book_14_Page_6
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: c285f8ff2390a4f42acb82513e8aaa29, type: 3}
+  Text: "\u0411\u0443\u0431\u0438\u043D\u0435\u0434, \u0437\u0430\u043D\u0431\u04EF\u0440\u04B3\u043E
+    \u0430\u0437 \u0441\u04EF\u0440\u043E\u0445 \u0431\u0430 \u0445\u043E\u043D\u0430\u0430\u0448\u043E\u043D\r
+    \u0434\u0430\u0440\u043E\u043C\u0430\u0434\u0430 \u0438\u0441\u0442\u043E\u0434\u0430\u0430\u043D\u0434.
+    \u0410\u043A\u043D\u0443\u043D \u043E\u043D\u04B3\u043E \u0445\u043E\u043D\u0430\u0447\u0430\u04B3\u043E\u0438
+    \u0445\u0443\u0434\u0440\u043E\r \u0451\u0444\u0442\u0430, \u0431\u0430 \u043E\u043D
+    \u0430\u0441\u0430\u043B \u043C\u0435\u0440\u0435\u0437\u0430\u043D\u0434. \u0417\u0430\u043D\u0431\u04EF\u0440\u04B3\u043E\u0438
+    \u0434\u0438\u0433\u0430\u0440 \u04B3\u0430\u043C\r \u0438\u043D \u0430\u043C\u0430\u043B\u0440\u043E
+    \u0430\u043D\u04B7\u043E\u043C \u0434\u043E\u0434\u0430, \u0431\u0435\u0440\u0443\u043D
+    \u043C\u0435\u0440\u0430\u0432\u0430\u043D\u0434. \u0414\u0430\u0440 \u04B3\u0430\u0440
+    \u0445\u043E\u043D\u0430\u0447\u0430\u0438 \u0447\u04EF\u0431\u04E3 15\u201320
+    \u043A\u0430\u043D\u0434\u0443 \u04B3\u0430\u0441\u0442. \u041A\u0430\u043D\u0434\u0443\r
+    \u043D\u043E\u043C\u0438 \u049B\u0443\u0442\u0442\u0438\u0438 \u0437\u0430\u043D\u0431\u04EF\u0440\u0438
+    \u0430\u0441\u0430\u043B \u0430\u0441\u0442. \u041E\u043D\u0440\u043E \u0430\u0437
+    \u0447\u04EF\u0431 \u0451\r \u0442\u0430\u0445\u0442\u0430 \u043C\u0435\u0441\u043E\u0437\u0430\u043D\u0434.
+    \u0414\u0430\u0440 \u04B3\u0430\u0440 \u043A\u0430\u043D\u0434\u0443 \u0437\u0430\u043D\u0431\u04EF\u0440
+    \u049B\u0443\u0442\u0442\u0438\u0447\u0430\u04B3\u043E\u0438\r \u0448\u0430\u0448\u043A\u0443\u043D\u04B7\u0430\u0438
+    \u043C\u0443\u043C\u04E3 \u0441\u043E\u0445\u0442\u0430\u0430\u0441\u0442. \u0410\u0441\u0430\u043B\u0440\u043E
+    \u0431\u0430 \u043E\u043D\u04B3\u043E\r \u043C\u0435\u0440\u0435\u0437\u0430\u0434."
+  Timings:
+  - StartPosition: 1.1649584
+    EndPosition: 1.8809634
+    Name: Book_14_Page_6
+    Text: "\u0411\u0443\u0431\u0438\u043D\u0435\u0434,"
+    Rectangle:
+      serializedVersion: 2
+      x: 56.631676
+      y: 21
+      width: 16.368324
+      height: 285
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 2.346644
+    EndPosition: 6.5906606
+    Name: Timing 2
+    Text: "\u0437\u0430\u043D\u0431\u04EF\u0440\u04B3\u043E \u0430\u0437 \u0441\u04EF\u0440\u043E\u0445
+      \u0431\u0430 \u0445\u043E\u043D\u0430\u0430\u0448\u043E\u043D\r \u0434\u0430\u0440\u043E\u043C\u0430\u0434\u0430
+      \u0438\u0441\u0442\u043E\u0434\u0430\u0430\u043D\u0434."
+    Rectangle:
+      serializedVersion: 2
+      x: 83.645744
+      y: 21
+      width: 97.02088
+      height: 285
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 7.009093
+    EndPosition: 11.952111
+    Name: Timing 3
+    Text: "\u0410\u043A\u043D\u0443\u043D \u043E\u043D\u04B3\u043E \u0445\u043E\u043D\u0430\u0447\u0430\u04B3\u043E\u0438
+      \u0445\u0443\u0434\u0440\u043E\r \u0451\u0444\u0442\u0430, \u0431\u0430 \u043E\u043D
+      \u0430\u0441\u0430\u043B \u043C\u0435\u0440\u0435\u0437\u0430\u043D\u0434."
+    Rectangle:
+      serializedVersion: 2
+      x: 190.23224
+      y: 21
+      width: 113.00049
+      height: 285
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 12.449025
+    EndPosition: 15.77051
+    Name: Timing 4
+    Text: "\u0417\u0430\u043D\u0431\u04EF\u0440\u04B3\u043E\u0438 \u0434\u0438\u0433\u0430\u0440
+      \u04B3\u0430\u043C\r \u0438\u043D \u0430\u043C\u0430\u043B\u0440\u043E \u0430\u043D\u04B7\u043E\u043C
+      \u0434\u043E\u0434\u0430,"
+    Rectangle:
+      serializedVersion: 2
+      x: 314.5925
+      y: 21
+      width: 75.93121
+      height: 285
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 16.005873
+    EndPosition: 16.895107
+    Name: Timing 5
+    Text: "\u0431\u0435\u0440\u0443\u043D \u043C\u0435\u0440\u0430\u0432\u0430\u043D\u0434."
+    Rectangle:
+      serializedVersion: 2
+      x: 395.90427
+      y: 21
+      width: 20.32846
+      height: 285
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 17.810476
+    EndPosition: 19.510448
+    Name: Timing 6
+    Text: "\u0414\u0430\u0440 \u04B3\u0430\u0440 \u0445\u043E\u043D\u0430\u0447\u0430\u0438
+      \u0447\u04EF\u0431\u04E3"
+    Rectangle:
+      serializedVersion: 2
+      x: 437.15863
+      y: 21
+      width: 38.862427
+      height: 285
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 19.824286
+    EndPosition: 21.942715
+    Name: Timing 7
+    Text: "15\u201320 \u043A\u0430\u043D\u0434\u0443 \u04B3\u0430\u0441\u0442."
+    Rectangle:
+      serializedVersion: 2
+      x: 483.19556
+      y: 21
+      width: 48.42865
+      height: 285
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 22.518072
+    EndPosition: 25.133432
+    Name: Timing 8
+    Text: "\u041A\u0430\u043D\u0434\u0443\r \u043D\u043E\u043C\u0438 \u049B\u0443\u0442\u0442\u0438\u0438
+      \u0437\u0430\u043D\u0431\u04EF\u0440\u0438 \u0430\u0441\u0430\u043B \u0430\u0441\u0442."
+    Rectangle:
+      serializedVersion: 2
+      x: 544.7772
+      y: 21
+      width: 59.788757
+      height: 285
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 25.578028
+    EndPosition: 28.005783
+    Name: Timing 9
+    Text: "\u041E\u043D\u0440\u043E \u0430\u0437 \u0447\u04EF\u0431 \u0451\r \u0442\u0430\u0445\u0442\u0430
+      \u043C\u0435\u0441\u043E\u0437\u0430\u043D\u0434."
+    Rectangle:
+      serializedVersion: 2
+      x: 614.72974
+      y: 21
+      width: 55.5
+      height: 285
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 28.481066
+    EndPosition: 33.6856
+    Name: Timing 10
+    Text: "\u0414\u0430\u0440 \u04B3\u0430\u0440 \u043A\u0430\u043D\u0434\u0443 \u0437\u0430\u043D\u0431\u04EF\u0440
+      \u049B\u0443\u0442\u0442\u0438\u0447\u0430\u04B3\u043E\u0438\r \u0448\u0430\u0448\u043A\u0443\u043D\u04B7\u0430\u0438
+      \u043C\u0443\u043C\u04E3 \u0441\u043E\u0445\u0442\u0430\u0430\u0441\u0442."
+    Rectangle:
+      serializedVersion: 2
+      x: 681.095
+      y: 21
+      width: 118.97894
+      height: 285
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 34.208664
+    EndPosition: 36.274788
+    Name: Timing 11
+    Text: "\u0410\u0441\u0430\u043B\u0440\u043E \u0431\u0430 \u043E\u043D\u04B3\u043E\r
+      \u043C\u0435\u0440\u0435\u0437\u0430\u0434."
+    Rectangle:
+      serializedVersion: 2
+      x: 812.03143
+      y: 21
+      width: 47.23291
+      height: 285
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

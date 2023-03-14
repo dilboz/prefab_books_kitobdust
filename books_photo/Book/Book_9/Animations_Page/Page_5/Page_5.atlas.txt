@@ -1,0 +1,76 @@
+
+Page_5.png
+size: 1057,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Snow_1
+  rotate: true
+  xy: 1034, 464
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+Snow_2
+  rotate: true
+  xy: 1034, 490
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Snow_3
+  rotate: false
+  xy: 1034, 513
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Snow_4
+  rotate: true
+  xy: 1034, 373
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Snow_5
+  rotate: true
+  xy: 1034, 418
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+Snow_6
+  rotate: true
+  xy: 1034, 394
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+Snow_7
+  rotate: true
+  xy: 1034, 562
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Snow_8
+  rotate: true
+  xy: 1034, 537
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+Snow_9
+  rotate: true
+  xy: 1034, 442
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1

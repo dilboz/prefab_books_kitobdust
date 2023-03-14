@@ -1,0 +1,27 @@
+
+Page_1.png
+size: 1460,730
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1282, 722
+  orig: 1282, 722
+  offset: 0, 0
+  index: -1
+Head_Girl
+  rotate: false
+  xy: 1290, 503
+  size: 166, 223
+  orig: 166, 223
+  offset: 0, 0
+  index: -1
+Head_dog
+  rotate: false
+  xy: 1290, 385
+  size: 128, 114
+  orig: 128, 114
+  offset: 0, 0
+  index: -1

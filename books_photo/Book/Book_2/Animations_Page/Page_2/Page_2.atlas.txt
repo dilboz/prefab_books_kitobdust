@@ -1,0 +1,97 @@
+
+Page_2.png
+size: 1112,589
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chicken_1_Body
+  rotate: false
+  xy: 1034, 500
+  size: 74, 85
+  orig: 74, 85
+  offset: 0, 0
+  index: -1
+Chicken_1_Foot_Left
+  rotate: false
+  xy: 1034, 139
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+Chicken_1_Foot_Right
+  rotate: true
+  xy: 1073, 95
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+Chicken_1_Head
+  rotate: true
+  xy: 1034, 85
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+Chicken_2_Body
+  rotate: true
+  xy: 1034, 412
+  size: 84, 66
+  orig: 84, 66
+  offset: 0, 0
+  index: -1
+Chicken_2_Foot_Left
+  rotate: false
+  xy: 1064, 38
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Chicken_2_Foot_Right
+  rotate: true
+  xy: 1034, 232
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+Chicken_2_Head
+  rotate: true
+  xy: 1034, 285
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+Chicken_3_Body
+  rotate: true
+  xy: 1034, 335
+  size: 73, 59
+  orig: 73, 59
+  offset: 0, 0
+  index: -1
+Chicken_3_Foot_Left
+  rotate: false
+  xy: 1064, 4
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+Chicken_3_Foot_Right
+  rotate: true
+  xy: 1034, 31
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+Chicken_3_Head
+  rotate: true
+  xy: 1034, 182
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+Layer 0 copy
+  rotate: false
+  xy: 4, 7
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1

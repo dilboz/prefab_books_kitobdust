@@ -1,0 +1,20 @@
+
+Page_21.png
+size: 1378,671
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 89
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Hammock
+  rotate: true
+  xy: 1034, 4
+  size: 663, 340
+  orig: 663, 340
+  offset: 0, 0
+  index: -1

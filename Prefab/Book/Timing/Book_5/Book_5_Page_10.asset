@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Book_5_Page_10
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: ceb1b7320ea3e7b45a33b74e0210d307, type: 3}
+  Text: "\u0425\u043E\u043D\u0435\u043C, \u0442\u043E \u0442\u0430\u0432\u043E\u043D\u0435\u043C,\r\n\u0411\u043E\u0448\u0435\u043C
+    \u0442\u043E \u0442\u0430\u0432\u043E\u043D\u043E!"
+  Timings:
+  - StartPosition: 1.279437
+    EndPosition: 1.9223381
+    Name: Book_5_Page_10
+    Text: "\u0425\u043E\u043D\u0435\u043C,"
+    Rectangle:
+      serializedVersion: 2
+      x: 231
+      y: 21
+      width: 101
+      height: 214.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 2.2024035
+    EndPosition: 3.1699483
+    Name: Timing 2
+    Text: "\u0442\u043E \u0442\u0430\u0432\u043E\u043D\u0435\u043C,\r"
+    Rectangle:
+      serializedVersion: 2
+      x: 375.99838
+      y: 21
+      width: 152.00162
+      height: 214.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 3.430907
+    EndPosition: 4.1502132
+    Name: Timing 3
+    Text: "\u0411\u043E\u0448\u0435\u043C"
+    Rectangle:
+      serializedVersion: 2
+      x: 568.9967
+      y: 21
+      width: 113.003296
+      height: 214.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 4.3666215
+    EndPosition: 5.232324
+    Name: Timing 4
+    Text: "\u0442\u043E \u0442\u0430\u0432\u043E\u043D\u043E!"
+    Rectangle:
+      serializedVersion: 2
+      x: 715.9978
+      y: 21
+      width: 136.0022
+      height: 214.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

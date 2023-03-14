@@ -1,0 +1,41 @@
+
+Page_6.png
+size: 1243,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Bird_Body
+  rotate: false
+  xy: 1034, 352
+  size: 205, 230
+  orig: 205, 230
+  offset: 0, 0
+  index: -1
+Bird_Foot_1
+  rotate: false
+  xy: 1034, 27
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+Bird_Foot_2
+  rotate: false
+  xy: 1101, 28
+  size: 52, 82
+  orig: 52, 82
+  offset: 0, 0
+  index: -1
+Bird_Head
+  rotate: false
+  xy: 1034, 114
+  size: 192, 234
+  orig: 192, 234
+  offset: 0, 0
+  index: -1

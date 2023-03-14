@@ -1,0 +1,27 @@
+
+Page_8.png
+size: 1381,730
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1282, 722
+  orig: 1282, 722
+  offset: 0, 0
+  index: -1
+Foot
+  rotate: false
+  xy: 1290, 345
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+Woodpecker
+  rotate: false
+  xy: 1290, 403
+  size: 87, 323
+  orig: 87, 323
+  offset: 0, 0
+  index: -1

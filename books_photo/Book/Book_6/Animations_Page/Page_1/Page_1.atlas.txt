@@ -1,0 +1,27 @@
+
+Page_1.png
+size: 1105,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: true
+  xy: 1034, 496
+  size: 86, 67
+  orig: 86, 67
+  offset: 0, 0
+  index: -1
+Head_Cat
+  rotate: false
+  xy: 1034, 449
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1

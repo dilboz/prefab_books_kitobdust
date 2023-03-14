@@ -1,0 +1,20 @@
+
+Page_2.png
+size: 1136,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1034, 343
+  size: 98, 239
+  orig: 98, 239
+  offset: 0, 0
+  index: -1

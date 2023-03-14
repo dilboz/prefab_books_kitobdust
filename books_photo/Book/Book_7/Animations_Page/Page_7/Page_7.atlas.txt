@@ -1,0 +1,27 @@
+
+Page_7.png
+size: 1223,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: true
+  xy: 1034, 395
+  size: 187, 185
+  orig: 187, 185
+  offset: 0, 0
+  index: -1
+Monocle
+  rotate: false
+  xy: 1034, 355
+  size: 95, 36
+  orig: 95, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+Page_11.png
+size: 1183,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Dress_1
+  rotate: false
+  xy: 1034, 141
+  size: 129, 250
+  orig: 129, 250
+  offset: 0, 0
+  index: -1
+Dress_2
+  rotate: false
+  xy: 1034, 395
+  size: 145, 187
+  orig: 145, 187
+  offset: 0, 0
+  index: -1
+Dress_3
+  rotate: false
+  xy: 1034, 14
+  size: 108, 123
+  orig: 108, 123
+  offset: 0, 0
+  index: -1

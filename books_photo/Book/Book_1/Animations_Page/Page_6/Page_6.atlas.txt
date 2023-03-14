@@ -1,0 +1,41 @@
+
+Page_6.png
+size: 1114,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Girl_Body
+  rotate: true
+  xy: 1034, 450
+  size: 132, 76
+  orig: 132, 76
+  offset: 0, 0
+  index: -1
+Girl_Hand_1
+  rotate: false
+  xy: 1034, 333
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Girl_Hand_2
+  rotate: false
+  xy: 1034, 379
+  size: 41, 67
+  orig: 41, 67
+  offset: 0, 0
+  index: -1
+Shoes
+  rotate: false
+  xy: 1034, 304
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1

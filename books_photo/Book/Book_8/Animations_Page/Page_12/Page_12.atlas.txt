@@ -1,0 +1,20 @@
+
+Page_12.png
+size: 1137,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 1034, 376
+  size: 99, 206
+  orig: 99, 206
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+Page_3.png
+size: 1063,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Hand_1
+  rotate: false
+  xy: 1034, 529
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+Hand_2
+  rotate: false
+  xy: 1034, 501
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1

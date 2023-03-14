@@ -1,0 +1,55 @@
+
+Page_8.png
+size: 1120,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Bucket
+  rotate: false
+  xy: 1034, 485
+  size: 82, 97
+  orig: 82, 97
+  offset: 0, 0
+  index: -1
+Goose_Hand_1
+  rotate: true
+  xy: 1034, 77
+  size: 71, 40
+  orig: 71, 40
+  offset: 0, 0
+  index: -1
+Goose_Hand_2
+  rotate: true
+  xy: 1034, 392
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+Raven_Hand_1
+  rotate: false
+  xy: 1034, 314
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+Raven_Hand_2
+  rotate: false
+  xy: 1034, 152
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+Trumpet
+  rotate: true
+  xy: 1034, 228
+  size: 82, 51
+  orig: 82, 51
+  offset: 0, 0
+  index: -1

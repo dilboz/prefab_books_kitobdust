@@ -1,0 +1,55 @@
+
+Page_1.png
+size: 1567,589
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 7
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Butterfly_1
+  rotate: true
+  xy: 1256, 7
+  size: 196, 189
+  orig: 196, 189
+  offset: 0, 0
+  index: -1
+Butterfly_2
+  rotate: false
+  xy: 1288, 207
+  size: 275, 146
+  orig: 275, 146
+  offset: 0, 0
+  index: -1
+Butterfly_3
+  rotate: false
+  xy: 1034, 174
+  size: 218, 170
+  orig: 218, 170
+  offset: 0, 0
+  index: -1
+Butterfly_4
+  rotate: false
+  xy: 1288, 357
+  size: 238, 228
+  orig: 238, 228
+  offset: 0, 0
+  index: -1
+Butterfly_5
+  rotate: false
+  xy: 1034, 348
+  size: 250, 237
+  orig: 250, 237
+  offset: 0, 0
+  index: -1
+Butterfly_6
+  rotate: false
+  xy: 1034, 4
+  size: 170, 166
+  orig: 170, 166
+  offset: 0, 0
+  index: -1

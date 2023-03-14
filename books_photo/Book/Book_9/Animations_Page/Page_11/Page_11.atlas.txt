@@ -1,0 +1,48 @@
+
+Page_11.png
+size: 1051,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Bubble_1
+  rotate: true
+  xy: 1034, 526
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Bubble_2
+  rotate: false
+  xy: 1034, 515
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Bubble_3
+  rotate: false
+  xy: 1034, 569
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Bubble_4
+  rotate: true
+  xy: 1034, 554
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+Bubble_5
+  rotate: false
+  xy: 1034, 540
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

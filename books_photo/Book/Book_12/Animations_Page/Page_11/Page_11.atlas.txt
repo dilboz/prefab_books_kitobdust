@@ -1,0 +1,34 @@
+
+Page_11.png
+size: 1415,730
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1282, 722
+  orig: 1282, 722
+  offset: 0, 0
+  index: -1
+Head_1
+  rotate: false
+  xy: 1290, 367
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+Head_2
+  rotate: true
+  xy: 1290, 539
+  size: 187, 121
+  orig: 187, 121
+  offset: 0, 0
+  index: -1
+Tree
+  rotate: true
+  xy: 1290, 413
+  size: 122, 84
+  orig: 122, 84
+  offset: 0, 0
+  index: -1

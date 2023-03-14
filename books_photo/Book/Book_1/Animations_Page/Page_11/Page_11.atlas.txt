@@ -1,0 +1,76 @@
+
+Page_11.png
+size: 1124,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Cat Body
+  rotate: true
+  xy: 1034, 306
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+Cat_Foot_1
+  rotate: false
+  xy: 1034, 21
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+Cat_Foot_2
+  rotate: false
+  xy: 1034, 125
+  size: 30, 60
+  orig: 30, 60
+  offset: 0, 0
+  index: -1
+Cat_Foot_3
+  rotate: false
+  xy: 1034, 65
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+Cat_Foot_4
+  rotate: true
+  xy: 1034, 189
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+Cat_Head
+  rotate: false
+  xy: 1086, 257
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+Cat_Tail
+  rotate: false
+  xy: 1034, 250
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+Dog
+  rotate: false
+  xy: 1034, 412
+  size: 86, 170
+  orig: 86, 170
+  offset: 0, 0
+  index: -1
+Dog_2
+  rotate: true
+  xy: 1076, 213
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1

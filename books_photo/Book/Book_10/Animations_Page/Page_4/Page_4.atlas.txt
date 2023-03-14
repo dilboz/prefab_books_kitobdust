@@ -1,0 +1,27 @@
+
+Page_4.png
+size: 1396,730
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1282, 722
+  orig: 1282, 722
+  offset: 0, 0
+  index: -1
+Worms_1
+  rotate: true
+  xy: 1290, 400
+  size: 161, 54
+  orig: 161, 54
+  offset: 0, 0
+  index: -1
+Worms_3
+  rotate: false
+  xy: 1290, 565
+  size: 102, 161
+  orig: 102, 161
+  offset: 0, 0
+  index: -1

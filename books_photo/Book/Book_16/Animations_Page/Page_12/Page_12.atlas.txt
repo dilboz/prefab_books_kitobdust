@@ -1,0 +1,48 @@
+
+Page_12.png
+size: 1316,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Splinters_12
+  rotate: false
+  xy: 1034, 55
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Splinters_6
+  rotate: false
+  xy: 1064, 106
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Splinters_7
+  rotate: false
+  xy: 1034, 104
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Splinters_8
+  rotate: true
+  xy: 1034, 73
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+Woodpecker_Body
+  rotate: false
+  xy: 1034, 130
+  size: 278, 452
+  orig: 278, 452
+  offset: 0, 0
+  index: -1

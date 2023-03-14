@@ -1,0 +1,62 @@
+
+Page_9.png
+size: 1118,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Clotch
+  rotate: false
+  xy: 1034, 195
+  size: 44, 110
+  orig: 44, 110
+  offset: 0, 0
+  index: -1
+Hand_1
+  rotate: false
+  xy: 1034, 489
+  size: 80, 93
+  orig: 80, 93
+  offset: 0, 0
+  index: -1
+Hand_2
+  rotate: true
+  xy: 1034, 309
+  size: 89, 70
+  orig: 89, 70
+  offset: 0, 0
+  index: -1
+Hand_3
+  rotate: true
+  xy: 1034, 402
+  size: 83, 79
+  orig: 83, 79
+  offset: 0, 0
+  index: -1
+Hand_4
+  rotate: false
+  xy: 1034, 117
+  size: 69, 74
+  orig: 69, 74
+  offset: 0, 0
+  index: -1
+Pen_1
+  rotate: true
+  xy: 1082, 257
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+Pen_2
+  rotate: false
+  xy: 1034, 69
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1

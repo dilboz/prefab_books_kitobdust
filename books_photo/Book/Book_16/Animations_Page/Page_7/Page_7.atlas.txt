@@ -1,0 +1,41 @@
+
+Page_7.png
+size: 1126,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Drum
+  rotate: true
+  xy: 1034, 463
+  size: 119, 88
+  orig: 119, 88
+  offset: 0, 0
+  index: -1
+Effect_1
+  rotate: false
+  xy: 1034, 345
+  size: 76, 114
+  orig: 76, 114
+  offset: 0, 0
+  index: -1
+Effect_2
+  rotate: false
+  xy: 1034, 131
+  size: 51, 96
+  orig: 51, 96
+  offset: 0, 0
+  index: -1
+Wand
+  rotate: true
+  xy: 1034, 231
+  size: 110, 58
+  orig: 110, 58
+  offset: 0, 0
+  index: -1

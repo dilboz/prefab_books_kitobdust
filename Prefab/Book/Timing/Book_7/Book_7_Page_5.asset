@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Book_7_Page_5
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: 18360a74dcda8c846bb4727b3679da65, type: 3}
+  Text: "\u0410\u0437   \u043D\u0430\u0437\u0434\u0438   \u0442\u0430\u0431\u0438\u0431  
+    \u044F\u043A   \u0434\u0443\u0445\u0442\u0430\u0440\u0430\u043A \r\u0431\u0430\u0440\u043E\u043C\u0430\u0434.
+    \u0412\u0430\u0439 \u0434\u0443 \u0431\u0430\u0440\u0438 \u0440\u04EF\u044F\u0448\u0440\u043E
+    \u0434\u043E\u0448\u0442\u0430 \u0431\u0443\u0434.\n\u2013 \u0414\u0430\u0440\u0434
+    \u043A\u0430\u0440\u0434? \u2013 \u043F\u0443\u0440\u0441\u0438\u0434 \u042D\u0440\u0430\u04B7.\r\n\u2013
+    \u041D\u0435, \u2013 \u04B7\u0430\u0432\u043E\u0431 \u0434\u043E\u0434 \u0434\u0443\u0445\u0442\u0430\u0440\u0430\u043A. 
+    \r\n\u0414\u0438\u043B\u0438 \u042D\u0440\u0430\u04B7 \u049B\u0443\u0432\u0432\u0430\u0442
+    \u0433\u0438\u0440\u0438\u0444\u0442.\r"
+  Timings:
+  - StartPosition: 0.91247404
+    EndPosition: 3.3058486
+    Name: Book_7_Page_5
+    Text: "\u0410\u0437   \u043D\u0430\u0437\u0434\u0438   \u0442\u0430\u0431\u0438\u0431  
+      \u044F\u043A   \u0434\u0443\u0445\u0442\u0430\u0440\u0430\u043A \r\u0431\u0430\u0440\u043E\u043C\u0430\u0434."
+    Rectangle:
+      serializedVersion: 2
+      x: 91
+      y: 21
+      width: 160
+      height: 273.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 3.6349206
+    EndPosition: 5.923602
+    Name: Timing 2
+    Text: "\u0412\u0430\u0439 \u0434\u0443 \u0431\u0430\u0440\u0438 \u0440\u04EF\u044F\u0448\u0440\u043E
+      \u0434\u043E\u0448\u0442\u0430 \u0431\u0443\u0434."
+    Rectangle:
+      serializedVersion: 2
+      x: 272.99887
+      y: 21
+      width: 153.00113
+      height: 273.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 6.4022675
+    EndPosition: 7.2249994
+    Name: Timing 3
+    Text: "\u2013 \u0414\u0430\u0440\u0434 \u043A\u0430\u0440\u0434?"
+    Rectangle:
+      serializedVersion: 2
+      x: 457.99936
+      y: 21
+      width: 55.00064
+      height: 273.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 7.6737413
+    EndPosition: 8.541355
+    Name: Timing 4
+    Text: " \u2013 \u043F\u0443\u0440\u0441\u0438\u0434 \u042D\u0440\u0430\u04B7.\r"
+    Rectangle:
+      serializedVersion: 2
+      x: 542.99896
+      y: 21
+      width: 58.001038
+      height: 273.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 8.81059
+    EndPosition: 10.456056
+    Name: Timing 5
+    Text: "\u2013 \u041D\u0435, \u2013 \u04B7\u0430\u0432\u043E\u0431 \u0434\u043E\u0434
+      \u0434\u0443\u0445\u0442\u0430\u0440\u0430\u043A.  \r"
+    Rectangle:
+      serializedVersion: 2
+      x: 618.99866
+      y: 21
+      width: 110.0014
+      height: 273.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 11.129184
+    EndPosition: 13.028933
+    Name: Timing 6
+    Text: "\u0414\u0438\u043B\u0438 \u042D\u0440\u0430\u04B7 \u049B\u0443\u0432\u0432\u0430\u0442
+      \u0433\u0438\u0440\u0438\u0444\u0442.\r"
+    Rectangle:
+      serializedVersion: 2
+      x: 773.99945
+      y: 21
+      width: 127.00055
+      height: 273.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

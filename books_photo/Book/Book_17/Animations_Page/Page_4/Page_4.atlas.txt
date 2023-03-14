@@ -1,0 +1,34 @@
+
+Page_4.png
+size: 1109,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Blade_1
+  rotate: false
+  xy: 1034, 425
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+Blade_2
+  rotate: false
+  xy: 1034, 396
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 1034, 452
+  size: 71, 130
+  orig: 71, 130
+  offset: 0, 0
+  index: -1

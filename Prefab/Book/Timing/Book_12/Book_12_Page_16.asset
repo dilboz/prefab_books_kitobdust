@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Book_12_Page_16
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: ec79faddf2af56e43a02ffb557b455ee, type: 3}
+  Text: "\u0412\u0430\u0439 \u0421\u0430\u043D\u0433\u043F\u0443\u0448\u0442 \u0431\u0443\u0434.\r\n\u2013
+    \u0421\u0430\u043B\u043E\u043C! \u2013 \u0433\u0443\u0444\u0442 \u0425\u043E\u0440\u043F\u0443\u0448\u0442.\r\n\u2013
+    \u0421\u0430\u043B\u043E\u043C, \u0441\u0430\u043B\u043E\u043C! \u2013 \u04B7\u0430\u0432\u043E\u0431
+    \u0434\u043E\u0434 \u0421\u0430\u043D\u0433\u043F\u0443\u0448\u0442 \u0432\u0430
+    \u043F\u0443\u0440\u0441\u0438\u0434:\r\n\u2013 \u0421\u0430\u0444\u0430\u0440
+    \u0431\u0430 \u0445\u0430\u0439\u0440. \u041A\u0443\u04B7\u043E \u043C\u0435\u0440\u0430\u0432\u04E3?\r\n\u0425\u043E\u0440\u043F\u0443\u0448\u0442
+    \u04B7\u0430\u0432\u043E\u0431 \u0434\u043E\u0434:\r\n\u2013 \u0414\u0430\u0440
+    \u0441\u0443\u0440\u043E\u0493\u0438 \u044F\u0433\u043E\u043D \u0434\u04EF\u0441\u0442
+    \u04B3\u0430\u0441\u0442\u0430\u043C. \u0428\u043E\u044F\u0434 \u0442\u0443 \u0434\u04EF\u0441\u0442\u0438
+    \u043C\u0430\u043D \u0448\u0430\u0432\u04E3?\r"
+  Timings:
+  - StartPosition: 1.177787
+    EndPosition: 2.5208774
+    Name: Book_12_Page_16
+    Text: "\u0412\u0430\u0439 \u0421\u0430\u043D\u0433\u043F\u0443\u0448\u0442 \u0431\u0443\u0434.\r"
+    Rectangle:
+      serializedVersion: 2
+      x: 87
+      y: 21
+      width: 65
+      height: 266.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 3.3473923
+    EndPosition: 4.0499344
+    Name: Timing 2
+    Text: "\u2013 \u0421\u0430\u043B\u043E\u043C!"
+    Rectangle:
+      serializedVersion: 2
+      x: 191.9999
+      y: 21
+      width: 34.000107
+      height: 266.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 4.52517
+    EndPosition: 5.64098
+    Name: Timing 3
+    Text: "\u2013 \u0433\u0443\u0444\u0442 \u0425\u043E\u0440\u043F\u0443\u0448\u0442.\r"
+    Rectangle:
+      serializedVersion: 2
+      x: 248.99944
+      y: 21
+      width: 54.000565
+      height: 266.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 6.219524
+    EndPosition: 7.4593177
+    Name: Timing 4
+    Text: "\u2013 \u0421\u0430\u043B\u043E\u043C, \u0441\u0430\u043B\u043E\u043C!"
+    Rectangle:
+      serializedVersion: 2
+      x: 330.99915
+      y: 21
+      width: 60.000854
+      height: 266.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 7.89322
+    EndPosition: 10.393454
+    Name: Timing 5
+    Text: "\u2013 \u04B7\u0430\u0432\u043E\u0431 \u0434\u043E\u0434 \u0421\u0430\u043D\u0433\u043F\u0443\u0448\u0442
+      \u0432\u0430 \u043F\u0443\u0440\u0441\u0438\u0434:\r"
+    Rectangle:
+      serializedVersion: 2
+      x: 411.99905
+      y: 21
+      width: 121.000946
+      height: 266.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 10.92254
+    EndPosition: 13.389579
+    Name: Timing 6
+    Text: "\u2013 \u0421\u0430\u0444\u0430\u0440 \u0431\u0430 \u0445\u0430\u0439\u0440.
+      \u041A\u0443\u04B7\u043E \u043C\u0435\u0440\u0430\u0432\u04E3?\r"
+    Rectangle:
+      serializedVersion: 2
+      x: 558.6056
+      y: 21
+      width: 119.39441
+      height: 266.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 13.94746
+    EndPosition: 20.022379
+    Name: Timing 7
+    Text: "\u0425\u043E\u0440\u043F\u0443\u0448\u0442 \u04B7\u0430\u0432\u043E\u0431
+      \u0434\u043E\u0434:\r\n\u2013 \u0414\u0430\u0440 \u0441\u0443\u0440\u043E\u0493\u0438
+      \u044F\u0433\u043E\u043D \u0434\u04EF\u0441\u0442 \u04B3\u0430\u0441\u0442\u0430\u043C.
+      \u0428\u043E\u044F\u0434 \u0442\u0443 \u0434\u04EF\u0441\u0442\u0438 \u043C\u0430\u043D
+      \u0448\u0430\u0432\u04E3?\r"
+    Rectangle:
+      serializedVersion: 2
+      x: 704.99915
+      y: 21
+      width: 294.00085
+      height: 266.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

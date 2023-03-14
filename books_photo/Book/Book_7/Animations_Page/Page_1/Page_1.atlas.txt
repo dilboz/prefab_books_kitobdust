@@ -1,0 +1,34 @@
+
+Page_1.png
+size: 1167,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Hand_1
+  rotate: false
+  xy: 1034, 291
+  size: 100, 129
+  orig: 100, 129
+  offset: 0, 0
+  index: -1
+Hand_2
+  rotate: true
+  xy: 1034, 424
+  size: 158, 129
+  orig: 158, 129
+  offset: 0, 0
+  index: -1
+Sleeve
+  rotate: true
+  xy: 1034, 157
+  size: 130, 83
+  orig: 130, 83
+  offset: 0, 0
+  index: -1

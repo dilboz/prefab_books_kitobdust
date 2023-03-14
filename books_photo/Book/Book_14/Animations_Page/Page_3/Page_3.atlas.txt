@@ -1,0 +1,48 @@
+
+Page_3.png
+size: 1116,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Hammer
+  rotate: false
+  xy: 1034, 413
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+Hand_1
+  rotate: false
+  xy: 1034, 481
+  size: 78, 101
+  orig: 78, 101
+  offset: 0, 0
+  index: -1
+Hand_2
+  rotate: false
+  xy: 1034, 359
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+Hand_3
+  rotate: false
+  xy: 1034, 322
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Hand_4
+  rotate: false
+  xy: 1089, 460
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1

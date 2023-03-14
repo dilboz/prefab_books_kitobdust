@@ -1,0 +1,34 @@
+
+Page_1.png
+size: 1145,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Grass
+  rotate: true
+  xy: 1034, 323
+  size: 133, 70
+  orig: 133, 70
+  offset: 0, 0
+  index: -1
+Hand_Left
+  rotate: false
+  xy: 1034, 237
+  size: 66, 82
+  orig: 66, 82
+  offset: 0, 0
+  index: -1
+Hand_Right
+  rotate: false
+  xy: 1034, 460
+  size: 107, 122
+  orig: 107, 122
+  offset: 0, 0
+  index: -1

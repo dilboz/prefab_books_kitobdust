@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Book_2_Page_6
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: a0dfa85ea25a38e409623c09bf59124b, type: 3}
+  Text: "\u0421\u0430\u043D\u0433\u043F\u0443\u0448\u0442, \u043A\u0430\u043B\u0442\u0430\u043A\u0430\u043B\u043E\u0441
+    \u0432\u0430 \u049B\u0443\u0440\u0431\u043E\u049B\u049B\u0430 \u04B3\u0430\u043C
+    \u0442\u0443\u0445\u043C \u043C\u0435\u0433\u0443\u0437\u043E\u0440\u0430\u043D\u0434."
+  Timings:
+  - StartPosition: 0
+    EndPosition: 1.0446723
+    Name: Book_2_Page_6
+    Text: "\u0421\u0430\u043D\u0433\u043F\u0443\u0448\u0442"
+    Rectangle:
+      serializedVersion: 2
+      x: 30
+      y: 21
+      width: 197.00002
+      height: 204.8
+    Color: {r: 1, g: 1, b: 1, a: 0.09803922}
+  - StartPosition: 1.0552781
+    EndPosition: 1.9620748
+    Name: Timing 2
+    Text: "\u043A\u0430\u043B\u0442\u0430\u043A\u0430\u043B\u043E\u0441"
+    Rectangle:
+      serializedVersion: 2
+      x: 229.00002
+      y: 21
+      width: 170.99998
+      height: 204.8
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 1.9779835
+    EndPosition: 3.3196182
+    Name: Timing 3
+    Text: "\u0432\u0430 \u049B\u0443\u0440\u0431\u043E\u049B\u049B\u0430 \u04B3\u0430\u043C"
+    Rectangle:
+      serializedVersion: 2
+      x: 403
+      y: 21
+      width: 253
+      height: 204.8
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 3.3408298
+    EndPosition: 4.406714
+    Name: Timing 4
+    Text: "\u0442\u0443\u0445\u043C \u043C\u0435\u0433\u0443\u0437\u043E\u0440\u0430\u043D\u0434."
+    Rectangle:
+      serializedVersion: 2
+      x: 660
+      y: 21
+      width: 201.00006
+      height: 204.8
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

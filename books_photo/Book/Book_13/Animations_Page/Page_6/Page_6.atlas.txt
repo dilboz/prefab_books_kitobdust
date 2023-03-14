@@ -1,0 +1,202 @@
+
+Page_6.png
+size: 1111,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Chicken_1_1
+  rotate: false
+  xy: 1034, 307
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+Chicken_1_2
+  rotate: true
+  xy: 1088, 225
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+Chicken_1_3
+  rotate: false
+  xy: 1093, 348
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+Chicken_2_1
+  rotate: false
+  xy: 1034, 431
+  size: 70, 61
+  orig: 70, 61
+  offset: 0, 0
+  index: -1
+Chicken_2_2
+  rotate: false
+  xy: 1088, 285
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Chicken_2_3
+  rotate: true
+  xy: 1088, 263
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+Chicken_3_1
+  rotate: true
+  xy: 1034, 54
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Chicken_3_2
+  rotate: false
+  xy: 1088, 185
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+Chicken_3_3
+  rotate: false
+  xy: 1086, 150
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+Chicken_4_1
+  rotate: false
+  xy: 1034, 93
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Chicken_4_2
+  rotate: true
+  xy: 1071, 93
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+Chicken_4_3
+  rotate: true
+  xy: 1086, 134
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Chicken_5_1
+  rotate: false
+  xy: 1034, 132
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+Chicken_5_2
+  rotate: false
+  xy: 1086, 167
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+Chicken_5_3
+  rotate: false
+  xy: 1093, 313
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+Chicken_6_1
+  rotate: true
+  xy: 1034, 186
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+Chicken_6_2
+  rotate: false
+  xy: 1093, 330
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Chicken_6_3
+  rotate: false
+  xy: 1070, 74
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Chicken_7_1
+  rotate: false
+  xy: 1034, 243
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+Chicken_7_2
+  rotate: false
+  xy: 1071, 110
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+Chicken_7_3
+  rotate: false
+  xy: 1034, 10
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+Chicken_8_1
+  rotate: true
+  xy: 1034, 496
+  size: 86, 70
+  orig: 86, 70
+  offset: 0, 0
+  index: -1
+Chicken_8_2
+  rotate: false
+  xy: 1088, 241
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Chicken_8_3
+  rotate: true
+  xy: 1088, 200
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+Chicken_9_1
+  rotate: false
+  xy: 1034, 370
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+Chicken_9_2
+  rotate: false
+  xy: 1070, 55
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Chicken_9_3
+  rotate: false
+  xy: 1034, 32
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+Page_11.png
+size: 2017,792
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 210
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Seaweed_1
+  rotate: true
+  xy: 1034, 189
+  size: 299, 334
+  orig: 299, 334
+  offset: 0, 0
+  index: -1
+Seaweed_10
+  rotate: true
+  xy: 1014, 92
+  size: 93, 262
+  orig: 93, 262
+  offset: 0, 0
+  index: -1
+Seaweed_11
+  rotate: false
+  xy: 1014, 11
+  size: 253, 77
+  orig: 253, 77
+  offset: 0, 0
+  index: -1
+Seaweed_12
+  rotate: false
+  xy: 4, 30
+  size: 398, 176
+  orig: 398, 176
+  offset: 0, 0
+  index: -1
+Seaweed_13
+  rotate: false
+  xy: 1895, 612
+  size: 118, 176
+  orig: 118, 176
+  offset: 0, 0
+  index: -1
+Seaweed_13_2
+  rotate: false
+  xy: 1372, 18
+  size: 306, 204
+  orig: 306, 204
+  offset: 0, 0
+  index: -1
+Seaweed_1_2
+  rotate: false
+  xy: 1704, 214
+  size: 283, 266
+  orig: 283, 266
+  offset: 0, 0
+  index: -1
+Seaweed_2
+  rotate: true
+  xy: 1888, 30
+  size: 180, 109
+  orig: 180, 109
+  offset: 0, 0
+  index: -1
+Seaweed_3
+  rotate: false
+  xy: 1682, 21
+  size: 202, 189
+  orig: 202, 189
+  offset: 0, 0
+  index: -1
+Seaweed_4
+  rotate: true
+  xy: 1372, 226
+  size: 254, 328
+  orig: 254, 328
+  offset: 0, 0
+  index: -1
+Seaweed_5
+  rotate: false
+  xy: 749, 4
+  size: 261, 202
+  orig: 261, 202
+  offset: 0, 0
+  index: -1
+Seaweed_6
+  rotate: false
+  xy: 406, 63
+  size: 339, 143
+  orig: 339, 143
+  offset: 0, 0
+  index: -1
+Seaweed_7
+  rotate: false
+  xy: 1504, 484
+  size: 387, 304
+  orig: 387, 304
+  offset: 0, 0
+  index: -1
+Seaweed_8
+  rotate: false
+  xy: 1034, 492
+  size: 466, 296
+  orig: 466, 296
+  offset: 0, 0
+  index: -1
+Seaweed_9
+  rotate: true
+  xy: 406, 5
+  size: 54, 167
+  orig: 54, 167
+  offset: 0, 0
+  index: -1

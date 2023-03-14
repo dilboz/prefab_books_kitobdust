@@ -1,0 +1,27 @@
+
+Page_1.png
+size: 1165,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Buterfly
+  rotate: false
+  xy: 1034, 400
+  size: 127, 182
+  orig: 127, 182
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1034, 268
+  size: 128, 110
+  orig: 128, 110
+  offset: 0, 0
+  index: -1

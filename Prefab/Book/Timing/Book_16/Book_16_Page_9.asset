@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Book_16_Page_9
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: 78505c08198bcfc4dbe2ba968a84b218, type: 3}
+  Text: 
+  Timings:
+  - StartPosition: 0
+    EndPosition: 18.102858
+    Name: Book_16_Page_9
+    Text: 
+    Rectangle:
+      serializedVersion: 2
+      x: 30
+      y: 21
+      width: 1067
+      height: 278.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

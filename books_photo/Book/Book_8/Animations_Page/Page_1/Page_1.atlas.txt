@@ -1,0 +1,48 @@
+
+Page_1.png
+size: 1092,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Girl_Hand_1
+  rotate: false
+  xy: 1034, 433
+  size: 45, 78
+  orig: 45, 78
+  offset: 0, 0
+  index: -1
+Girl_Hand_2
+  rotate: false
+  xy: 1034, 515
+  size: 54, 67
+  orig: 54, 67
+  offset: 0, 0
+  index: -1
+Man_Hand_1
+  rotate: true
+  xy: 1034, 391
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+Man_Hand_2
+  rotate: true
+  xy: 1034, 325
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Man_Hand_3
+  rotate: true
+  xy: 1034, 355
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1

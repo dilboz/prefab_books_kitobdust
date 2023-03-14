@@ -1,0 +1,55 @@
+
+Page_10.png
+size: 1085,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 4, 4
+  size: 1026, 578
+  orig: 1026, 578
+  offset: 0, 0
+  index: -1
+Rain_1
+  rotate: false
+  xy: 1034, 513
+  size: 47, 69
+  orig: 47, 69
+  offset: 0, 0
+  index: -1
+Rain_2
+  rotate: false
+  xy: 1034, 247
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+Rain_3
+  rotate: false
+  xy: 1034, 454
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+Rain_4
+  rotate: false
+  xy: 1034, 345
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+Rain_5
+  rotate: false
+  xy: 1034, 399
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+Rain_6
+  rotate: false
+  xy: 1034, 296
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1

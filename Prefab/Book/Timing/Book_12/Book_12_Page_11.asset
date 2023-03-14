@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Book_12_Page_11
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: 5ba6186e42342fd428d063ab7c7aa025, type: 3}
+  Text: "\u0420\u0430\u0444\u0442-\u0440\u0430\u0444\u0442, \u043A\u0438 \u0431\u043E\u0437
+    \u0431\u043E \u044F\u043A \u04B7\u043E\u043D\u0432\u0430\u0440 \u0432\u043E\u0445\u04EF\u0440\u0434.
+    \u049A\u0430\u0434\u0430\u0448 \u043C\u0438\u0441\u043B\u0438 \u0441\u0430\u0444\u0435\u0434\u043E\u0440
+    \u0431\u0430\u043B\u0430\u043D\u0434 \u0431\u0443\u0434. \u0413\u0430\u0440\u0434\u0430\u043D\u0430\u0448
+    \u2013 \u0434\u0430\u0440\u043E\u0437, \u0440\u0430\u043D\u0433\u0430\u0448 \u2013
+    \u0437\u0430\u0440\u0434\u0438 \u0433\u0443\u043B\u0434\u043E\u0440. \u0410\u0437
+    \u043D\u0430\u0432\u0434\u0430\u04B3\u043E\u0438 \u0431\u0430\u043B\u0430\u043D\u0434\u0438
+    \u0434\u0430\u0440\u0430\u0445\u0442 \u0431\u0430\u0440\u0433\u0443 \u043C\u0435\u0432\u0430
+    \u043C\u0435\u0445\u04EF\u0440\u0434. \n\u2013 \u0410\u043D\u0430, \u0434\u04EF\u0441\u0442
+    \u0451\u0444\u0442\u0430\u043C! \u2013 \u0445\u0443\u0440\u0441\u0430\u043D\u0434
+    \u0448\u0443\u0434 \u0425\u043E\u0440\u043F\u0443\u0448\u0442. "
+  Timings:
+  - StartPosition: 1.4837649
+    EndPosition: 4.804572
+    Name: Book_12_Page_11
+    Text: "\u0420\u0430\u0444\u0442-\u0440\u0430\u0444\u0442, \u043A\u0438 \u0431\u043E\u0437
+      \u0431\u043E \u044F\u043A \u04B7\u043E\u043D\u0432\u0430\u0440 \u0432\u043E\u0445\u04EF\u0440\u0434."
+    Rectangle:
+      serializedVersion: 2
+      x: 93
+      y: 21
+      width: 141.00002
+      height: 266.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 5.9114966
+    EndPosition: 8.502209
+    Name: Timing 2
+    Text: "\u049A\u0430\u0434\u0430\u0448 \u043C\u0438\u0441\u043B\u0438 \u0441\u0430\u0444\u0435\u0434\u043E\u0440
+      \u0431\u0430\u043B\u0430\u043D\u0434 \u0431\u0443\u0434."
+    Rectangle:
+      serializedVersion: 2
+      x: 280.99954
+      y: 21
+      width: 110.00049
+      height: 266.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 9.185193
+    EndPosition: 11.304875
+    Name: Timing 3
+    Text: "\u0413\u0430\u0440\u0434\u0430\u043D\u0430\u0448 \u2013 \u0434\u0430\u0440\u043E\u0437,"
+    Rectangle:
+      serializedVersion: 2
+      x: 419.99924
+      y: 21
+      width: 90.00079
+      height: 266.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 11.917211
+    EndPosition: 14.154646
+    Name: Timing 4
+    Text: "\u0440\u0430\u043D\u0433\u0430\u0448 \u2013 \u0437\u0430\u0440\u0434\u0438
+      \u0433\u0443\u043B\u0434\u043E\u0440."
+    Rectangle:
+      serializedVersion: 2
+      x: 535.9995
+      y: 21
+      width: 95.00049
+      height: 266.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 14.743424
+    EndPosition: 16.627588
+    Name: Timing 5
+    Text: "\u0410\u0437 \u043D\u0430\u0432\u0434\u0430\u04B3\u043E\u0438 \u0431\u0430\u043B\u0430\u043D\u0434\u0438
+      \u0434\u0430\u0440\u0430\u0445\u0442"
+    Rectangle:
+      serializedVersion: 2
+      x: 655.99927
+      y: 21
+      width: 80.00079
+      height: 266.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 17.05152
+    EndPosition: 18.417526
+    Name: Timing 6
+    Text: "\u0431\u0430\u0440\u0433\u0443 \u043C\u0435\u0432\u0430 \u043C\u0435\u0445\u04EF\u0440\u0434."
+    Rectangle:
+      serializedVersion: 2
+      x: 754
+      y: 21
+      width: 58
+      height: 266.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 19.171179
+    EndPosition: 23.528273
+    Name: Timing 7
+    Text: "\u2013 \u0410\u043D\u0430, \u0434\u04EF\u0441\u0442 \u0451\u0444\u0442\u0430\u043C!
+      \u2013 \u0445\u0443\u0440\u0441\u0430\u043D\u0434 \u0448\u0443\u0434 \u0425\u043E\u0440\u043F\u0443\u0448\u0442."
+    Rectangle:
+      serializedVersion: 2
+      x: 843.99976
+      y: 21
+      width: 185.00037
+      height: 266.5
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}

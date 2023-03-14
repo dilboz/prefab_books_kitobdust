@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748de4471f0464f0bb7f596c821ee567, type: 3}
+  m_Name: Book_2_Page_2
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: c612fd920ee8d8947a2646b1ecc6cab0, type: 3}
+  Text: "\u0410\u0437 \u0442\u0443\u0445\u043C\u0438 \u043C\u0443\u0440\u0493 \u0447\u04EF\u04B7\u0430
+    \u043C\u0435\u0431\u0430\u0440\u043E\u044F\u0434\n\n\u0410\u043D\u0430, \u0438\u043D\u04B3\u043E
+    \u0447\u04EF\u04B7\u0430\u0438 \u043C\u0443\u0440\u0493\u0430\u043D\u0434."
+  Timings:
+  - StartPosition: 0
+    EndPosition: 1.2604731
+    Name: Timing 1
+    Text: "\u0410\u0437 \u0442\u0443\u0445\u043C\u0438 \u043C\u0443\u0440\u0493"
+    Rectangle:
+      serializedVersion: 2
+      x: 30
+      y: 21
+      width: 197.00002
+      height: 204.8
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 1.4524233
+    EndPosition: 2.4313695
+    Name: Timing 2
+    Text: "\u0447\u04EF\u04B7\u0430 \u043C\u0435\u0431\u0430\u0440\u043E\u044F\u0434"
+    Rectangle:
+      serializedVersion: 2
+      x: 257
+      y: 21
+      width: 153.00003
+      height: 204.8
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 3.1095936
+    EndPosition: 3.960573
+    Name: Timing 3
+    Text: "\u0410\u043D\u0430, \u0438\u043D\u04B3\u043E"
+    Rectangle:
+      serializedVersion: 2
+      x: 516
+      y: 21
+      width: 133.00006
+      height: 204.8
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  - StartPosition: 4.190913
+    EndPosition: 5.374606
+    Name: Timing 4
+    Text: "\u0447\u04EF\u04B7\u0430\u0438 \u043C\u0443\u0440\u0493\u0430\u043D\u0434."
+    Rectangle:
+      serializedVersion: 2
+      x: 685
+      y: 21
+      width: 185
+      height: 204.8
+    Color: {r: 1, g: 1, b: 1, a: 0.16078432}
